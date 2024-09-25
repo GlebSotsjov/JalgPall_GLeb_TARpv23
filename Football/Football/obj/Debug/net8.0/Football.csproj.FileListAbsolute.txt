@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\Football\obj\Debug\net8.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Football\obj\Debug\net8.0\Football.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Football\obj\Debug\net8.0\Football.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Football\obj\Debug\net8.0\Football.csproj.CoreCompileInputs.cache
